@@ -8,7 +8,7 @@ Join the discussion @ [Discord](https://discord.gg/cG8JwrJB6Z)
 
 To provide each project with expectable folder structure it will be fixed in the standard 
 
-### Draft (still up for finalizing)
+### Draft (up for [voting](https://discord.com/channels/795728654566817812/795778114139586590/796050026689855538) now)
 
 - gym
 - raid
