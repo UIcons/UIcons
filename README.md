@@ -31,8 +31,8 @@ To provide each project with expectable file name it will be fixed in the standa
 
 ### Pokemon icons
 Draft / Options:
-  - <pokemon id>[-e<temp evolution id>][-f<form id>][-c<costume id>][-g<gender id>][-shiny].png
-  - p<pokemon id>[s][e<temp evolution id>][f<form id>][c<costume id>][g<gender id>].png
+  - `<pokemon id>[-e<temp evolution id>][-f<form id>][-c<costume id>][-g<gender id>][-shiny].png`
+  - `p<pokemon id>[s][e<temp evolution id>][f<form id>][c<costume id>][g<gender id>].png`
   
 
 ### Reward icons
