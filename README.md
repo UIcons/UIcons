@@ -8,14 +8,14 @@ Join the discussion @ [Discord](https://discord.gg/cG8JwrJB6Z)
 
 To provide each project with expectable folder structure it will be fixed in the standard 
 
-### Draft (up for [voting](https://discord.com/channels/795728654566817812/795778114139586590/796050026689855538) now)
+### Main folder structure approved ([Approving Poll](https://discord.com/channels/795728654566817812/795778114139586590/796050026689855538))
 
 - gym
 - raid
 - invasion
 - pokemon
 - pokestop
-- reward 
+- reward  (up for [voting](https://discord.com/channels/795728654566817812/795778114139586590/796468427228315648) now)
   - 2 (item)
   - 3 (stardust)
   - 12 (mega)
@@ -30,6 +30,10 @@ To provide each project with expectable folder structure it will be fixed in the
 To provide each project with expectable file name it will be fixed in the standard 
 
 ### Pokemon icons
+Draft / Options:
+  - <pokemon id>[-e<temp evolution id>][-f<form id>][-c<costume id>][-g<gender id>][-shiny].png
+  - p<pokemon id>[s][e<temp evolution id>][f<form id>][c<costume id>][g<gender id>].png
+  
 
 ### Reward icons
 
