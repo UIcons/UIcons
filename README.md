@@ -19,7 +19,7 @@ To provide each project with expectable folder structure it will be fixed in the
   - item
   - stardust
   - mega_resouce
-  - Subfolders can be added without approval as long as the follow exact [Proto names](https://github.com/Furtif/POGOProtos/blob/old_master/src/POGOProtos/Data/Quests/QuestReward.proto#L39) [Approving Poll](https://discord.com/channels/795728654566817812/797833971332415529/797834489861767178)
+  - Subfolders can be added without approval as long as the follow exact [Proto names](https://github.com/Furtif/POGOProtos/blob/old_master/src/POGOProtos/Data/Quests/QuestReward.proto#L39) ([Approving Poll](https://discord.com/channels/795728654566817812/797833971332415529/797834489861767178))
 - team
 - type
 - weather
