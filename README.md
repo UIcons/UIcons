@@ -31,7 +31,7 @@ To provide each project with expectable file name it will be fixed in the standa
 
 ### Pokemon icons
 Draft / Options:
-  - #### OPTION A
+  - #### OPTION A ( Underscore or Hyphen to be considered )
   - `<pokemon id>[-e<temp evolution id>][-f<form id>][-c<costume id>][-g<gender id>][-shiny].png`
     - Example: `3.png` Regular Venusaur
     - Example: `3-e1-shiny.png` Mega Venusaur Shiny
