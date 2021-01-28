@@ -32,20 +32,20 @@ To provide each project with expectable file name it will be fixed in the standa
 ### Pokemon icons
 Draft / Options:
   - #### OPTION A ( Underscore or Hyphen to be considered )
-  - `<pokemon id>[-e<temp evolution id>][-f<form id>][-c<costume id>][-g<gender id>][-shiny].png`
+  - `<pokemon id>[-e<temp evolution id>][-f<form id>][-c<costume id>][-g<gender id>][-s].png`
     - Example: `3.png` Regular Venusaur
-    - Example: `3-e1-shiny.png` Mega Venusaur Shiny
+    - Example: `3-e1-s.png` Mega Venusaur Shiny
     - Example: `3-f950.png` Venusaur Clone Form
-  - #### OPTION B
-  - `p<pokemon id>[s][e<temp evolution id>][f<form id>][c<costume id>][g<gender id>].png`
-    - Example: `p3.png` Regular Venusaur
-    - Example: `p3se1.png` Mega Venusaur Shiny
-    - Example: `p3f950.png` Venusaur Clone Form
-  - #### OPTION C ( Underscore or Hyphen to be considered )
+  - #### OPTION B ( Underscore or Hyphen to be considered )
   - `p<pokemon id>[_s][_e<temp evolution id>][_f<form id>][_c<costume id>][_g<gender id>].png`
     - Example: `p3.png` Regular Venusaur
     - Example: `p3_s_e1.png` Mega Venusaur Shiny
     - Example: `p3_f950.png` Venusaur Clone Form
+  - #### OPTION C
+  - `p<pokemon id>[s][e<temp evolution id>][f<form id>][c<costume id>][g<gender id>].png`
+    - Example: `p3.png` Regular Venusaur
+    - Example: `p3se1.png` Mega Venusaur Shiny
+    - Example: `p3f950.png` Venusaur Clone Form
 
 ### Reward icons
 
