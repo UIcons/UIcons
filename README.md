@@ -30,8 +30,8 @@ To provide each project with expectable folder structure it will be fixed in the
 To provide each project with expectable file name it will be fixed in the standard 
 
 ### Pokemon icons ([Approving Poll](https://discord.com/channels/795728654566817812/797833971332415529/804151316460601375))
-Hyphen, Underscore or Nothing ([Voting Poll](https://discord.com/channels/795728654566817812/797833971332415529/805465450863394847))
-Order of variables ([Voting Poll](https://discord.com/channels/795728654566817812/797833971332415529/805466387342426114))
+- Hyphen, Underscore or Nothing ([Voting Poll](https://discord.com/channels/795728654566817812/797833971332415529/805465450863394847))
+- Order of variables ([Voting Poll](https://discord.com/channels/795728654566817812/797833971332415529/805466387342426114))
 
   - `<pokemon id>[-e<temp evolution id>][-f<form id>][-c<costume id>][-g<gender id>][-s].png`
     - Example: `3.png` Regular Venusaur
