@@ -45,12 +45,13 @@ To provide each project with expectable file name it will be fixed in the standa
 ### Gym icons
   - gym: `<team id>[_b{battle}][_e{ex}].png`  (`_b` `_e` flag optional) 
 ### Raid icons
-  - raid: `<egg level>[_e {ex}].png`
+  - raid: `<egg level>[-h{hatched}][_e {ex}].png` (`_h` `_e` flag optional)
 ### Invasion icons
   - invasion: `<grunt id>.png`
 ### Pokestop icons
   - pokestop: `<lure id**>[_g<grunt id>][_q<quest id>].png
   ** Not lured is ID `0` further follow proto's
+  *** To be considered `[_s{small}][_b{big}]` (Small icons minimal details eg marker use. Big icons full details eg label notification use)
 ### Team Icons
   - team: `<team id>.png` (Team badges not to be confused with Gym icons)
 ### Type Icons
