@@ -43,9 +43,9 @@ To provide each project with expectable file name it will be fixed in the standa
   - stardust:`<amount>.png`
   - mega_resouce:`<pokemon id>.png`
 ### Gym icons
-  - gym: `<team id>[_battle].png`  (`_battle` flag optional) 
+  - gym: `<team id>[_b{battle}][_e{ex}].png`  (`_b` `_e` flag optional) 
 ### Raid icons
-  - raid: `<pokemon id>[_e<evolution id>][_f<form id>][_c<costume id>][_g<gender id>].png`
+  - raid: `<egg level>[_e {ex}].png`
 ### Invasion icons
   - invasion: `<grunt id>.png`
 ### Pokestop icons
