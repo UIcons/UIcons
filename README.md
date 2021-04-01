@@ -19,7 +19,7 @@ To provide each project with expectable folder structure it will be fixed in the
   - item
   - stardust
   - mega_resouce
-  - Subfolders can be added without approval as long as the follow exact [Proto names](https://github.com/Furtif/POGOProtos/blob/old_master/src/POGOProtos/Data/Quests/QuestReward.proto#L39) ([Approving Poll](https://discord.com/channels/795728654566817812/797833971332415529/797834489861767178))
+  - Subfolders can be added without approval as long as the follow exact [Proto names](https://github.com/Furtif/POGOProtos/blob/old_master/src/POGOProtos/Data/Quests/QuestReward.proto#L26) ([Approving Poll](https://discord.com/channels/795728654566817812/797833971332415529/797834489861767178))
 - team
 - type
 - weather
@@ -38,20 +38,24 @@ To provide each project with expectable file name it will be fixed in the standa
     - Example: `3_e1_s.png` Mega Venusaur Shiny
     - Example: `3_f950.png` Venusaur Clone Form
 
-### Reward icons
-
+### Reward icons ( ALL BELOW IS A PROPOSAL )
+  - item: `<item id>[_a<ammount>].png`
+  - stardust:`<amount>.png`
+  - mega_resouce:`<pokemon id>.png`
 ### Gym icons
-
+  - gym: `<team id>[_battle].png`  (`_battle` flag optional) 
 ### Raid icons
-
+  - raid: `<pokemon id>[_e<evolution id>][_f<form id>][_c<costume id>][_g<gender id>].png`
 ### Invasion icons
-
+  - invasion: `<grunt id>.png`
 ### Pokestop icons
-
+  - pokestop: `<lure id**>[_g<grunt id>][_q<quest id>].png
+  ** Not lured is ID `0` further follow proto's
 ### Team Icons
-
+  - team: `<team id>.png` (Team badges not to be confused with Gym icons)
 ### Type Icons
-
+  - type: `<type id>.png` 
 ### Weather Icons
-
+  - weather: `<weather id>[_l<severity level>].png`
 ### Misc Icons
+  - Folder to for any icons that dont fit any category and do not pose the need for additional category.
