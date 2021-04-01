@@ -49,7 +49,7 @@ To provide each project with expectable file name it will be fixed in the standa
 ### Invasion icons
   - invasion: `<grunt id>.png`
 ### Pokestop icons
-  - pokestop: `<lure id**>[_g<grunt id>][_q<quest id>].png
+  - pokestop: `<lure id**>[_g<grunt id>][_q{i}{p}<quest id>].png` ( `_qi` item reward `_qp` pokemon reward )
   ** Not lured is ID `0` further follow proto's
   *** To be considered `[_s{small}][_b{big}]` (Small icons minimal details eg marker use. Big icons full details eg label notification use)
 ### Team Icons
