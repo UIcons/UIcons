@@ -33,19 +33,19 @@ To provide each project with expectable file name it will be fixed in the standa
 - ~~Hyphen~~, ### Underscore ### or ~~Nothing~~ ([Approving Poll](https://discord.com/channels/795728654566817812/797833971332415529/805465450863394847))
 - Order of variables ([Approving Poll](https://discord.com/channels/795728654566817812/797833971332415529/805466387342426114))
 
-  - `<pokemon id>[_e<temp evolution id>][_f<form id>][_c<costume id>][_g<gender id>][_s].png`
+  - `<pokemon id>[_e{temp evolution id}][_f{form id}][_c{costume id}][_g{gender id}][_s].png`
     - Example: `3.png` Regular Venusaur
     - Example: `3_e1_s.png` Mega Venusaur Shiny
     - Example: `3_f950.png` Venusaur Clone Form
 
 ### Reward icons ( ALL BELOW IS A PROPOSAL )
-  - item: `<item id>[_a<ammount>].png`
+  - item: `<item id>[_a{ammount}].png`
   - stardust:`<amount>.png`
   - mega_resouce:`<pokemon id>.png`
 ### Gym icons
-  - gym: `<team id>[_t<trainer count>][_b{battle}][_e{ex}].png`  (`_b` `_e` flag optional)
+  - gym: `<team id>[_t{trainer count}][_b{battle}][_e{ex}].png`
 ### Raid icons
-  - raid: `<egg level>[-h{hatched}][_e {ex}].png` (`_h` `_e` flag optional)
+  - raid: `<egg level>[_h{hatched}][_e {ex}].png`
 ### Invasion icons
   - invasion: `<grunt id>.png`
 ### Pokestop icons
@@ -57,6 +57,6 @@ To provide each project with expectable file name it will be fixed in the standa
 ### Type Icons
   - type: `<type id>.png` 
 ### Weather Icons
-  - weather: `<weather id>[_l<severity level>].png`
+  - weather: `<weather id>[_l{severity level}].png`
 ### Misc Icons
   - Folder to for any icons that dont fit any category and do not pose the need for additional category.
