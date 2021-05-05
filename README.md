@@ -29,6 +29,9 @@ To provide each project with expectable folder structure it will be fixed in the
 
 To provide each project with expectable file name it will be fixed in the standard 
 
+### Mandatory image keys are wrapped in `< >`
+### Optional flags are wrapped in `{ }`
+
 ### Pokemon icons ([Approving Poll](https://discord.com/channels/795728654566817812/797833971332415529/804151316460601375))
 - ~~Hyphen~~, ### Underscore ### or ~~Nothing~~ ([Approving Poll](https://discord.com/channels/795728654566817812/797833971332415529/805465450863394847))
 - Order of variables ([Approving Poll](https://discord.com/channels/795728654566817812/797833971332415529/805466387342426114))
