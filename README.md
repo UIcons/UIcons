@@ -42,7 +42,7 @@ To provide each project with expectable file name it will be fixed in the standa
     - Example: `3_f950.png` Venusaur Clone Form
 
 ### Reward icons ( ALL BELOW IS A PROPOSAL )
-  - item: `<item id>[_a{ammount}].png`
+  - item: `<item id>[_a{amount}].png`
   - stardust:`<amount>.png`
   - mega_resouce:`<pokemon id>.png`
 ### Gym icons
