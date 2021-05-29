@@ -54,7 +54,7 @@ To provide each project with expectable file name it will be fixed in the standa
 ### Pokestop icons
   - pokestop: `<lure id**>[_i][_q].png` ( `_i` invasion active `_q` quest active ) images from invasion and reward folder can be used as overlay
   - ** Not lured is ID `0` further follow proto's
-  - *** To be considered `[_s{small}][_b{big}]` (Small icons minimal details eg marker use. Big icons full details eg label notification use)
+  - Upcoming Pokestop levels might change perspective on pokestop icon naming.. TBC
 ### Team Icons
   - team: `<team id>.png` (Team badges not to be confused with Gym icons)
 ### Type Icons
