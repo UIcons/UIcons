@@ -41,11 +41,11 @@ To provide each project with expectable file name it will be fixed in the standa
     - Example: `3_e1_s.png` Mega Venusaur Shiny
     - Example: `3_f950.png` Venusaur Clone Form
 
-### Reward icons ( ALL BELOW IS A PROPOSAL )
+### Reward icons ([Approving Poll](https://discord.com/channels/795728654566817812/797833971332415529/848220938838343690)) (ongoing discussion about amount for mega_resource)
   - item: `<item id>[_a{amount}].png`
   - stardust:`<amount>.png`
   - mega_resouce:`<pokemon id>.png`
-### Gym icons
+### Gym icons ( ALL BELOW IS A PROPOSAL )
   - gym: `<team id>[_t{trainer count}][_b][_ex].png` (`_b` in active battle `_ex` ex gym (no flag means false))
 ### Raid icons
   - raid: `<egg level>[_h][_ex].png` (`_h` hatched egg `_ex` ex gym (no flag means false))
