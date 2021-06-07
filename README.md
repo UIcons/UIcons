@@ -4,7 +4,7 @@ UIcons is an attempt to create a universal and cooperative standard for Icons us
 
 Join the discussion @ [Discord](https://discord.gg/cG8JwrJB6Z)
 
-## Repo's who have adopted or have agreed to adopt
+## Repo's that have adopted or have agreed to adopt
 
 * [nileplumb](https://github.com/nileplumb) Shuffle and Home iconsets
 * [whitewillem](https://github.com/whitewillem/PogoAssets) Ingame and Ingame outline iconsets
