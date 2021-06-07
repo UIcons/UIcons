@@ -4,9 +4,11 @@ UIcons is an attempt to create a universal and cooperative standard for Icons us
 
 Join the discussion @ [Discord](https://discord.gg/cG8JwrJB6Z)
 
-## UIcons folder structure
+## Repo's who have adopted or have agreed to adopt
 
-To provide each project with expectable folder structure it will be fixed in the standard 
+[nileplumb](https://github.com/nileplumb) Shuffle and Home iconsets
+[whitewillem](https://github.com/whitewillem/PogoAssets) Ingame and Ingame outline iconsets
+* [geekygreek7](https://github.com/geekygreek7) Shuffle shiny split iconset (currently Pull Request)
 
 ### Main folder structure approved ([Approving Poll](https://discord.com/channels/795728654566817812/795778114139586590/796050026689855538))
 
@@ -23,11 +25,7 @@ To provide each project with expectable folder structure it will be fixed in the
 - team
 - type
 - weather
-- misc
-
-## UIcons Object Naming
-
-To provide each project with expectable file name it will be fixed in the standard 
+- misc 
 
 ### Mandatory image keys are wrapped in `< >`
 ### Optional flags are wrapped in `{ }`
@@ -45,9 +43,9 @@ To provide each project with expectable file name it will be fixed in the standa
   - item: `<item id>[_a{amount}].png`
   - stardust:`<amount>.png`
   - mega_resouce:`<pokemon id>.png`
-### Gym icons ( ALL BELOW IS A PROPOSAL )
+### Gym icons ([Approving Poll](https://discord.com/channels/795728654566817812/797833971332415529/849751311003418674)
   - gym: `<team id>[_t{trainer count}][_b][_ex].png` (`_b` in active battle `_ex` ex gym (no flag means false))
-### Raid icons
+### Raid icons  ( ALL BELOW IS A PROPOSAL )
   - raid: `<egg level>[_h][_ex].png` (`_h` hatched egg `_ex` ex gym (no flag means false))
 ### Invasion icons
   - invasion: `<grunt id>.png`
