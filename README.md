@@ -6,9 +6,9 @@ Join the discussion @ [Discord](https://discord.gg/cG8JwrJB6Z)
 
 ## Repo's who have adopted or have agreed to adopt
 
-[nileplumb](https://github.com/nileplumb) Shuffle and Home iconsets
-[whitewillem](https://github.com/whitewillem/PogoAssets) Ingame and Ingame outline iconsets
-* [geekygreek7](https://github.com/geekygreek7) Shuffle shiny split iconset (currently Pull Request)
+* [nileplumb](https://github.com/nileplumb) Shuffle and Home iconsets
+* [whitewillem](https://github.com/whitewillem/PogoAssets) Ingame and Ingame outline iconsets
+* [geekygreek7](https://github.com/geekygreek7) Shuffle shiny split iconset (**currently Pull Request)
 
 ### Main folder structure approved ([Approving Poll](https://discord.com/channels/795728654566817812/795778114139586590/796050026689855538))
 
