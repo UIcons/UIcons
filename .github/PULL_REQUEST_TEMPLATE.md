@@ -1,4 +1,4 @@
-<!--- Edit README.mb to show what you want to change -->
+<!--- Edit README.md and/or index.json to show what you want to change -->
 <!--- This pr will result in a poll on Discord. If you get the majority on your side it will be included in the standard -->
 <!--- Please create a seperate pull request for each of the changes you want where possible. Polls are done for the complete pr -->
 
