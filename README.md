@@ -20,6 +20,8 @@ Join the discussion @ [Discord](https://discord.gg/cG8JwrJB6Z)
 - reward  ([Approving Poll](https://discord.com/channels/795728654566817812/795778114139586590/796468427228315648))
   - item
   - stardust
+  - candy
+  - xl_candy
   - mega_resource
   - Subfolders can be added without approval as long as the follow exact [Proto names](https://github.com/Furtif/POGOProtos/blob/a53979d6bba81df45b1f09f7c1aa8185cb999959/base/base.proto#L16087) ([Approving Poll](https://discord.com/channels/795728654566817812/797833971332415529/797834489861767178))
 - team
