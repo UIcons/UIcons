@@ -50,8 +50,7 @@ Join the discussion @ [Discord](https://discord.gg/cG8JwrJB6Z)
 ### Invasion icons
   - invasion: `<grunt id>.png`
 ### Pokestop icons
-  - pokestop: `0_l<lure id**>[_i][_q].png` ( `_i` invasion active `_q` quest active ) images from invasion and reward folder can be used as overlay
-  - ** Not lured is ID `0` further follow proto's
+  - pokestop: `0<_l{lure id}>[_i][_q].png` ( `_i` invasion active `_q` quest active ) images from invasion and reward folder can be used as overlay
   - Upcoming Pokestop levels might change perspective on pokestop icon naming.. TBC
 ### Team Icons
   - team: `<team id>.png` (Team badges not to be confused with Gym icons)
