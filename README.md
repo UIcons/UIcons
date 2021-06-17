@@ -63,3 +63,6 @@ Join the discussion @ [Discord](https://discord.gg/cG8JwrJB6Z)
   - weather: `<weather id>[_l{severity level}].png`
 ### Misc Icons
   - Folder to for any icons that dont fit any category and do not pose the need for additional category.
+
+## Credits:  
+- [Mygod](https://github.com/Mygod/pokemon-icon-postprocessor) for basic concept
