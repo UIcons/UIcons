@@ -47,19 +47,19 @@ Join the discussion @ [Discord](https://discord.gg/cG8JwrJB6Z)
   - mega_resouce:`<pokemon id>.png`
 ### Gym icons ([Approving Poll](https://discord.com/channels/795728654566817812/797833971332415529/849751311003418674))
   - gym: `<team id>[_t{trainer count}][_b][_ex].png` (`_b` in active battle `_ex` ex gym (no flag means false))
-### Raid icons ([Active Poll](https://discord.com/channels/795728654566817812/797833971332415529/854382259615432725))
+### Raid icons ([Approving Poll](https://discord.com/channels/795728654566817812/797833971332415529/854382259615432725))
   - raid: `<egg level>[_h][_ex].png` (`_h` hatched egg `_ex` ex gym (no flag means false))
-### Invasion icons ([Active Poll](https://discord.com/channels/795728654566817812/797833971332415529/854385467733573663))
+### Invasion icons ([Approving Poll](https://discord.com/channels/795728654566817812/797833971332415529/854385467733573663))
   - invasion: `<grunt id>.png`
-### Pokestop icons ([Active Poll](https://discord.com/channels/795728654566817812/797833971332415529/854389589140832276))
+### Pokestop icons ([Approving Poll](https://discord.com/channels/795728654566817812/797833971332415529/854389589140832276))
   - pokestop: `<lure id**>[_i][_q].png` ( `_i` invasion active `_q` quest active ) images from invasion and reward folder can be used as overlay
   - ** Not lured is ID `0` further follow proto's
   - Upcoming Pokestop levels might change perspective on pokestop icon naming.. TBC
-### Team Icons ([Active Poll](https://discord.com/channels/795728654566817812/797833971332415529/854387770067648533))
+### Team Icons ([Approving Poll](https://discord.com/channels/795728654566817812/797833971332415529/854387770067648533))
   - team: `<team id>.png` (Team badges not to be confused with Gym icons)
-### Type Icons ([Active Poll](https://discord.com/channels/795728654566817812/797833971332415529/854388157826072617))
+### Type Icons ([Approving Poll](https://discord.com/channels/795728654566817812/797833971332415529/854388157826072617))
   - type: `<type id>.png` 
-### Weather Icons ([Active Poll](https://discord.com/channels/795728654566817812/797833971332415529/854388585050013726))
+### Weather Icons ([Approving Poll](https://discord.com/channels/795728654566817812/797833971332415529/854388585050013726))
   - weather: `<weather id>[_l{severity level}].png`
 ### Misc Icons
   - Folder to for any icons that dont fit any category and do not pose the need for additional category.
