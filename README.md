@@ -13,7 +13,7 @@ Join the discussion @ [Discord](https://discord.gg/cG8JwrJB6Z)
 ### Main folder structure approved ([Approving Poll](https://discord.com/channels/795728654566817812/795778114139586590/796050026689855538))
 
 - gym
-- raid
+- raid_egg
 - invasion
 - pokemon
 - pokestop
@@ -49,7 +49,7 @@ Join the discussion @ [Discord](https://discord.gg/cG8JwrJB6Z)
   - xl_candy:`<pokemon id>[_a{amount}].png`
 ### Gym icons ([Approving Poll](https://discord.com/channels/795728654566817812/797833971332415529/849751311003418674))
   - gym: `<team id>[_t{trainer count}][_b][_ex].png` (`_b` in active battle `_ex` ex gym (no flag means false))
-### Raid icons ([Approving Poll](https://discord.com/channels/795728654566817812/797833971332415529/854382259615432725))
+### Raid egg icons ([Approving Poll](https://discord.com/channels/795728654566817812/797833971332415529/854382259615432725))
   - raid: `<egg level>[_h][_ex].png` (`_h` hatched egg `_ex` ex gym (no flag means false))
 ### Invasion icons ([Approving Poll](https://discord.com/channels/795728654566817812/797833971332415529/854385467733573663))
   - invasion: `<grunt id>.png`
