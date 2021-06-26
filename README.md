@@ -45,7 +45,6 @@ Join the discussion @ [Discord](https://discord.gg/cG8JwrJB6Z)
   - item: `<item id>[_a{amount}].png`
   - stardust:`<amount>.png`
   - mega_resouce:`<pokemon id>.png`
-### Below needs a Approving Poll
   - candy: `<pokemon id>[_a{amount}].png`
   - xl_candy:`<pokemon id>[_a{amount}].png`
 ### Gym icons ([Approving Poll](https://discord.com/channels/795728654566817812/797833971332415529/849751311003418674))
