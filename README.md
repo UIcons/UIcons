@@ -45,7 +45,7 @@ Join the discussion @ [Discord](https://discord.gg/cG8JwrJB6Z)
 ### Reward icons ([Approving Poll](https://discord.com/channels/795728654566817812/797833971332415529/848220938838343690)) (ongoing discussion about amount for mega_resource)
   - item: `<item id>[_a{amount}].png`
   - stardust:`<amount>.png`
-  - mega_resouce:`<pokemon id>.png`
+  - mega_resouce:`<pokemon id>[_a{amount}].png`
   - candy: `<pokemon id>[_a{amount}].png`
   - xl_candy:`<pokemon id>[_a{amount}].png`
 ### Gym icons ([Approving Poll](https://discord.com/channels/795728654566817812/797833971332415529/849751311003418674))
@@ -65,7 +65,7 @@ Join the discussion @ [Discord](https://discord.gg/cG8JwrJB6Z)
 ### Weather Icons ([Approving Poll](https://discord.com/channels/795728654566817812/797833971332415529/854388585050013726))
   - weather: `<weather id>[_l{severity level}].png`
 ### Misc Icons
-  - Folder to for any icons that dont fit any category and do not pose the need for additional category.
+  - Folder to for any icons that don't fit any category and do not pose the need for additional category.
 
 ## Credits:  
 - [Mygod](https://github.com/Mygod/pokemon-icon-postprocessor) for basic concept
