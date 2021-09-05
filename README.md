@@ -27,6 +27,7 @@ Join the discussion @ [Discord](https://discord.gg/cG8JwrJB6Z)
   - Subfolders can be added without approval as long as the follow exact [Proto names](https://github.com/Furtif/POGOProtos/blob/a53979d6bba81df45b1f09f7c1aa8185cb999959/base/base.proto#L16087) ([Approving Poll](https://discord.com/channels/795728654566817812/797833971332415529/797834489861767178))
 - team
 - type
+- nest
 - weather
 - misc 
 
@@ -61,7 +62,9 @@ Join the discussion @ [Discord](https://discord.gg/cG8JwrJB6Z)
 ### Team Icons ([Approving Poll](https://discord.com/channels/795728654566817812/797833971332415529/854387770067648533))
   - team: `<team id>.png` (Team badges not to be confused with Gym icons)
 ### Type Icons ([Approving Poll](https://discord.com/channels/795728654566817812/797833971332415529/854388157826072617))
-  - type: `<type id>.png` 
+  - type: `<type id>.png`
+### Nest Icons
+  - nest: `<type id>.png` 
 ### Weather Icons ([Approving Poll](https://discord.com/channels/795728654566817812/797833971332415529/854388585050013726))
   - weather: `<weather id>[_l{severity level}].png`
 ### Misc Icons
