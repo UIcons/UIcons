@@ -11,7 +11,7 @@ Easiest to either run it with 'node create_index.js' or add it to a package.json
 Example Implementation: https://github.com/WatWowMap/wwm-uicons
 */
 
-module.exports.update = async function update() {
+module.exports.createIndex = async function createIndex() {
   const sorter = new Intl.Collator(undefined, { numeric: true, sensitivity: 'base' })
   const checkFolders = async (folder) => {
     folder = folder.replace('//', '/')
