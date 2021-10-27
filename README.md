@@ -64,7 +64,7 @@ Join the discussion @ [Discord](https://discord.gg/cG8JwrJB6Z)
 ### Nest Icons
   - nest: `<type id>.png` 
 ### Weather Icons
-  - weather: `<weather id>[_l{severity level}].png`
+  - weather: `<weather id>[_l{severity level}][_d][_n].png`
 ### Misc Icons
   - Folder to for any icons that don't fit any category and do not pose the need for additional category.
 
