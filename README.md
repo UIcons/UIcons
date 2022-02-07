@@ -29,7 +29,6 @@ Join the discussion @ [Discord](https://discord.gg/cG8JwrJB6Z)
 - type
 - nest
 - weather
-- navigation
 - device
 - spawnpoint
 - misc 
@@ -86,19 +85,14 @@ Join the discussion @ [Discord](https://discord.gg/cG8JwrJB6Z)
     - `ar.png`
     - `ex.png`
     - `first.png`
-    - `found.png`
     - `grass.png`
     - `great.png`
     - `little.png`
     - `master.png`
-    - `missing.png`
-    - `percentage.png`
     - `second.png`
     - `sparkles.png`
-    - `spawnpoint.png`
     - `sponsor.png`
     - `third.png`
-    - `timer.png`
     - `ultra.png`
 
 ## Credits:  
