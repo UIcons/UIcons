@@ -67,8 +67,6 @@ Join the discussion @ [Discord](https://discord.gg/cG8JwrJB6Z)
   - nest: `<type id>.png` 
 ### Weather Icons
   - weather: `<weather id>[_l{severity level}][_d][_n].png`
-### Navigation Icons
-  - applemaps, googlemaps, wazemaps, ...
 ### Spawnpoint Icons
   - `0` - without TTH
   - `1` - with TTH
