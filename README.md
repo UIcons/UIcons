@@ -29,6 +29,9 @@ Join the discussion @ [Discord](https://discord.gg/cG8JwrJB6Z)
 - type
 - nest
 - weather
+- navigation
+- device
+- spawnpoint
 - misc 
 
 ### Mandatory image keys are wrapped in `< >`
@@ -65,8 +68,38 @@ Join the discussion @ [Discord](https://discord.gg/cG8JwrJB6Z)
   - nest: `<type id>.png` 
 ### Weather Icons
   - weather: `<weather id>[_l{severity level}][_d][_n].png`
+### Navigation Icons
+  - applemaps, googlemaps, wazemaps, ...
+### Spawnpoint Icons
+  - `0` - without TTH
+  - `1` - with TTH
+### Device Icons
+  - `0` - online
+  - `1` - offline
 ### Misc Icons
   - Folder to for any icons that don't fit any category and do not pose the need for additional category.
+  - Following files are required:
+    - `0.png`
+    - `1500.png`
+    - `2500.png`
+    - `500.png`
+    - `ar.png`
+    - `ex.png`
+    - `first.png`
+    - `found.png`
+    - `grass.png`
+    - `great.png`
+    - `little.png`
+    - `master.png`
+    - `missing.png`
+    - `percentage.png`
+    - `second.png`
+    - `sparkles.png`
+    - `spawnpoint.png`
+    - `sponsor.png`
+    - `third.png`
+    - `timer.png`
+    - `ultra.png`
 
 ## Credits:  
 - [Mygod](https://github.com/Mygod/pokemon-icon-postprocessor) for basic concept
