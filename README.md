@@ -71,8 +71,8 @@ Join the discussion @ [Discord](https://discord.gg/cG8JwrJB6Z)
   - `0` - without TTH
   - `1` - with TTH
 ### Device Icons
-  - `0` - online
-  - `1` - offline
+  - `0` - offline
+  - `1` - online
 ### Misc Icons
   - Folder to for any icons that don't fit any category and do not pose the need for additional category.
   - Following files are required:
