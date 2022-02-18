@@ -84,14 +84,10 @@ Join the discussion @ [Discord](https://discord.gg/cG8JwrJB6Z)
     - `ex.png`
     - `first.png`
     - `grass.png`
-    - `great.png`
-    - `little.png`
-    - `master.png`
     - `second.png`
     - `sparkles.png`
     - `sponsor.png`
     - `third.png`
-    - `ultra.png`
 
 ## Credits:  
 - [Mygod](https://github.com/Mygod/pokemon-icon-postprocessor) for basic concept
