@@ -56,9 +56,12 @@ Join the discussion @ [Discord](https://discord.gg/cG8JwrJB6Z)
 ### Invasion icons
   - invasion: `<grunt id>.png`
 ### Pokestop icons
-  - pokestop: `<lure id**>[_i][_q][_ar].png` ( `_i` invasion active, `_q` quest active, `_ar` ar eligible ) images from invasion and reward folder can be used as overlay
+  - pokestop: `<lure id**>[_i][_q{with_ar}][_ar].png` ( `_i` invasion active, `_q` quest active, `_ar` ar eligible ) images from invasion and reward folder can be used as overlay
   - ** Not lured is ID `0` further follow proto's
   - Upcoming Pokestop levels might change perspective on pokestop icon naming.. TBC
+  - `_q`: any or both AR and non-AR quests are active 
+  - `_q0`: Non-AR quest active
+  - `_q1`: AR quest active
 ### Team Icons
   - team: `<team id>.png` (Team badges not to be confused with Gym icons)
 ### Type Icons
