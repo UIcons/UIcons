@@ -17,7 +17,7 @@ Join the discussion @ [Discord](https://discord.gg/cG8JwrJB6Z)
   - egg 
 - invasion
   - grunts
-  - display types
+  - display_types
 - pokemon
 - pokestop
 - reward
