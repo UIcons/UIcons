@@ -16,8 +16,8 @@ Join the discussion @ [Discord](https://discord.gg/cG8JwrJB6Z)
 - raid
   - egg 
 - invasion
-  - grunts
-  - display_types
+  - grunt
+  - display_type
 - pokemon
 - pokestop
 - reward
@@ -56,8 +56,8 @@ Join the discussion @ [Discord](https://discord.gg/cG8JwrJB6Z)
 ### Raid icons 
   - egg: `<egg level>[_h][_ex].png` (`_h` hatched egg `_ex` ex gym (no flag means false))
 ### Invasion icons
-  - invasion: `<grunt id>.png`
-  - display types: `<display type>.png`
+  - grunt: `<grunt id>.png`
+  - display_type: `<display type>.png`
 ### Pokestop icons
   - pokestop: `<lure id**>[_g][_d][_q{with_ar}][_ar].png` ( `_g` grunt invasion active, `_d` display type invasion active, `_q` quest active, `_ar` ar eligible ) images from invasion and reward folder can be used as overlay
   - ** Not lured is ID `0` further follow proto's
