@@ -63,7 +63,7 @@ Join the discussion @ [Discord](https://discord.gg/cG8JwrJB6Z)
   - `_q0`: Non-AR quest active
   - `_q1`: AR quest active
   - `_i`: Default incident active (Team Rocket)
-  - `_i7`: Type 7 incident active (Gold Pokestop)
+  - `_i7`: Generic (Type 7) incident active (Gold Pokestop)
 ### Team Icons
   - team: `<team id>.png` (Team badges not to be confused with Gym icons)
 ### Type Icons
