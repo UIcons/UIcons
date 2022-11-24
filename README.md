@@ -8,7 +8,7 @@ Join the discussion @ [Discord](https://discord.gg/cG8JwrJB6Z)
 
 * [nileplumb](https://github.com/nileplumb) Shuffle and Home iconsets
 * [whitewillem](https://github.com/whitewillem/PogoAssets) Ingame and Ingame outline iconsets
-* [geekygreek7](https://github.com/geekygreek7) Shuffle shiny split iconset (**currently Pull Request)
+* [jms412](https://github.com/jms412/) Shuffle and Home shiny split icons
 
 ### Main folder structure approved
 
@@ -58,7 +58,6 @@ Join the discussion @ [Discord](https://discord.gg/cG8JwrJB6Z)
 ### Pokestop icons
   - pokestop: `<lure id**>[_i{incident_display_type}][_q{with_ar}][_ar][_p{1-3}].png` ( `_i` incident active, `_q` quest active, `_ar` ar eligible, `_p` Power Up Level from AR Scan submissions) images from invasion and reward folder can be used as overlay
   - ** Not lured is ID `0` further follow proto's
-  - Upcoming Pokestop levels might change perspective on pokestop icon naming.. TBC
   - `_q`: Any or both AR and non-AR quests are active
   - `_q0`: Non-AR quest active
   - `_q1`: AR quest active
