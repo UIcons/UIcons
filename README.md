@@ -56,7 +56,7 @@ Join the discussion @ [Discord](https://discord.gg/cG8JwrJB6Z)
 ### Invasion icons
   - invasion: `<grunt id>[_i{incident_display_type}].png`
 ### Pokestop icons
-  - pokestop: `<lure id**>[_i{incident_display_type}][_q{with_ar}][_ar][_p{1-3}].png` ( `_i` invasion active, `_q` quest active, `_ar` ar eligible, `_p` Power Up Level from AR Scan submissions) images from invasion and reward folder can be used as overlay
+  - pokestop: `<lure id**>[_i{incident_display_type}][_q{with_ar}][_ar][_p{1-3}].png` ( `_i` incident active, `_q` quest active, `_ar` ar eligible, `_p` Power Up Level from AR Scan submissions) images from invasion and reward folder can be used as overlay
   - ** Not lured is ID `0` further follow proto's
   - Upcoming Pokestop levels might change perspective on pokestop icon naming.. TBC
   - `_q`: Any or both AR and non-AR quests are active
