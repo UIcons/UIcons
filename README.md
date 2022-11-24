@@ -50,13 +50,13 @@ Join the discussion @ [Discord](https://discord.gg/cG8JwrJB6Z)
   - candy: `<pokemon id>[_a{amount}].png`
   - xl_candy:`<pokemon id>[_a{amount}].png`
 ### Gym icons
-  - gym: `<team id>[_t{trainer count}][_b][_ex][_ar].png` (`_b` in active battle, `_ex` ex gym, `_ar` ar eligible (no flag means false))
+  - gym: `<team id>[_t{trainer count}][_b][_ex][_ar][_p{1-3}].png` (`_b` in active battle, `_ex` ex gym, `_ar` ar eligible (no flag means false), `_p` Power Up Level from AR Scan submissions)
 ### Raid icons 
   - egg: `<egg level>[_h][_ex].png` (`_h` hatched egg `_ex` ex gym (no flag means false))
 ### Invasion icons
   - invasion: `<grunt id>[_i{incident_display_type}].png`
 ### Pokestop icons
-  - pokestop: `<lure id**>[_i{incident_display_type}][_q{with_ar}][_ar].png` ( `_i` incident active, `_q` quest active, `_ar` ar eligible ) images from `invasion` and `reward` folders can be used as overlay
+  - pokestop: `<lure id**>[_i{incident_display_type}][_q{with_ar}][_ar][_p{1-3}].png` ( `_i` incident active, `_q` quest active, `_ar` ar eligible, `_p` Power Up Level from AR Scan submissions) images from invasion and reward folder can be used as overlay
   - ** Not lured is ID `0` further follow proto's
   - Upcoming Pokestop levels might change perspective on pokestop icon naming.. TBC
   - `_q`: Any or both AR and non-AR quests are active
