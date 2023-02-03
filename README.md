@@ -54,7 +54,7 @@ Join the discussion @ [Discord](https://discord.gg/cG8JwrJB6Z)
 ### Raid icons 
   - egg: `<egg level>[_h][_ex].png` (`_h` hatched egg `_ex` ex gym (no flag means false))
 ### Invasion icons
-  - invasion: `<grunt id>[_i{incident_display_type}].png`
+  - invasion: `<grunt id>[_i{incident_display_type}]_u.png` (`_u` unconfirmed giovanni)
 ### Pokestop icons
   - pokestop: `<lure id**>[_i{incident_display_type}][_q{with_ar}][_ar][_p{1-3}].png` ( `_i` incident active, `_q` quest active, `_ar` ar eligible, `_p` Power Up Level from AR Scan submissions) images from invasion and reward folder can be used as overlay
   - ** Not lured is ID `0` further follow proto's
