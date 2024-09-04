@@ -95,7 +95,8 @@ Join the discussion @ [Discord](https://discord.gg/cG8JwrJB6Z)
     - `sponsor.png`
     - `third.png`
 ### Station Icons
-  - station: `0.png`
+  - `0` - inactive
+  - `1` - active
 
 ## Credits:  
 - [Mygod](https://github.com/Mygod/pokemon-icon-postprocessor) for basic concept
