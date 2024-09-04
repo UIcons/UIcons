@@ -25,6 +25,7 @@ Join the discussion @ [Discord](https://discord.gg/cG8JwrJB6Z)
   - xl_candy
   - mega_resource
   - Subfolders can be added without approval as long as the follow exact [Proto names](https://github.com/Furtif/POGOProtos/blob/a53979d6bba81df45b1f09f7c1aa8185cb999959/base/base.proto#L16087)
+- station
 - team
 - type
 - nest
@@ -93,6 +94,8 @@ Join the discussion @ [Discord](https://discord.gg/cG8JwrJB6Z)
     - `sparkles.png`
     - `sponsor.png`
     - `third.png`
+### Station Icons
+  - station: `0.png`
 
 ## Credits:  
 - [Mygod](https://github.com/Mygod/pokemon-icon-postprocessor) for basic concept
