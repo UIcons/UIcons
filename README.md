@@ -39,7 +39,7 @@ Join the discussion @ [Discord](https://discord.gg/cG8JwrJB6Z)
 
 ### Pokemon icons
 
-  - `<pokemon id>[_e{temp evolution id}][_f{form id}][_c{costume id}][_g{gender id}][_a{alignment_id}][_b{bread mode id}][_s{shiny}].png`
+  - `<pokemon id>[_b{bread mode id}][_e{temp evolution id}][_f{form id}][_c{costume id}][_g{gender id}][_a{alignment_id}][_s{shiny}].png`
     - Example: `3.png` Regular Venusaur
     - Example: `3_e1_s.png` Mega Venusaur Shiny
     - Example: `3_f950.png` Venusaur Clone Form
