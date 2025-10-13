@@ -70,7 +70,9 @@ Join the discussion @ [Discord](https://discord.gg/cG8JwrJB6Z)
   - `_i7`: Generic (Type 7) incident active (Gold Pokestop)
 ### Tappable Icons
   - tappable: `<TAPPABLE_TYPE_NAME>.png`
-    - Example: `TAPPABLE_TYPE_POKEBALL.png`
+    - Example: `TAPPABLE_TYPE_MAPLE.png`
+    - Fallback to `TAPPABLE_TYPE_POKEBALL.png`,
+    - iIf that is not available, fallback to the pokemon icon located in `/reward/item/1.png`
 ### Team Icons
   - team: `<team id>.png` (Team badges not to be confused with Gym icons)
 ### Type Icons
