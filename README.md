@@ -17,6 +17,7 @@ Join the discussion @ [Discord](https://discord.gg/cG8JwrJB6Z)
   - egg 
 - invasion
 - pokemon
+- background
 - pokestop
 - reward
   - item
@@ -26,6 +27,7 @@ Join the discussion @ [Discord](https://discord.gg/cG8JwrJB6Z)
   - mega_resource
   - Subfolders can be added without approval as long as the follow exact [Proto names](https://github.com/Furtif/POGOProtos/blob/a53979d6bba81df45b1f09f7c1aa8185cb999959/base/base.proto#L16087)
 - station
+- tappable
 - team
 - type
 - nest
@@ -38,14 +40,14 @@ Join the discussion @ [Discord](https://discord.gg/cG8JwrJB6Z)
 ### Optional flags are wrapped in `{ }`
 
 ### Pokemon icons
-
   - `<pokemon id>[_b{bread mode id}][_e{temp evolution id}][_f{form id}][_c{costume id}][_g{gender id}][_a{alignment_id}][_s{shiny}].png`
     - Example: `3.png` Regular Venusaur
     - Example: `3_e1_s.png` Mega Venusaur Shiny
     - Example: `3_f950.png` Venusaur Clone Form
     - Example: `3_a1.png` Shadow Venusaur
     - Example: `3_b1.png` Dynamax Venusaur
-
+### Background
+  - background: `<background id>.png`
 ### Reward icons
   - item: `<item id>[_a{amount}].png`
   - stardust:`<amount>.png`
@@ -66,6 +68,9 @@ Join the discussion @ [Discord](https://discord.gg/cG8JwrJB6Z)
   - `_q1`: AR quest active
   - `_i`: Default incident active (Team Rocket)
   - `_i7`: Generic (Type 7) incident active (Gold Pokestop)
+### Tappable Icons
+  - tappable: `<TAPPABLE_TYPE_NAME>.png`
+    - Example: `TAPPABLE_TYPE_POKEBALL.png`
 ### Team Icons
   - team: `<team id>.png` (Team badges not to be confused with Gym icons)
 ### Type Icons
