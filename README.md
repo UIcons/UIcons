@@ -51,7 +51,7 @@ Join the discussion @ [Discord](https://discord.gg/cG8JwrJB6Z)
 ### Reward icons
   - item: `<item id>[_a{amount}].png`
   - stardust:`<amount>.png`
-  - mega_resouce:`<pokemon id>[_a{amount}].png`
+  - mega_resouce:`<pokemon id>[_e{temp evolution id}][_a{amount}].png`
   - candy: `<pokemon id>[_a{amount}].png`
   - xl_candy:`<pokemon id>[_a{amount}].png`
 ### Gym icons
